@@ -1,5 +1,5 @@
 FROM python:3.12.9-slim
-LABEL authors="honfi555"
+LABEL authors="yusch"
 
 WORKDIR /artHub-backend
 
